@@ -14,4 +14,4 @@ for num_time in range(100):
     time.sleep(3)
     count_time += 1
 
-print count_time
+print count_time+1
